@@ -8,7 +8,7 @@ Crypto Tracker with Modern UI (fixed)
 - Icon fetching for cards done in background to avoid blocking refresh
 - Custom auto-refresh interval dropdown
 """
-  
+   
 import sys
 import requests
 import pandas as pd
@@ -514,4 +514,5 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
